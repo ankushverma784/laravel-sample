@@ -1,0 +1,626 @@
+/*media query*/
+
+@media (max-width: 1199px){
+	.destinationimg img {
+	    height: 284px;
+	}
+	#home-10{
+		text-align: center;
+	}
+	#tourpackage-01 .tourpackageimg img {
+    	height: 373px !important;
+	}
+	.tour-search{
+		padding: 25px;
+	}
+	.rating .fa {
+	    margin-right: 4px !important;
+	}
+	#news-listing-01 .blogsimg img {
+    	height: 343px !important;
+	}
+	.news-listing-posts{
+		padding: 25px 20px;
+	}
+	.blogsdetails{
+		padding: 25px;
+	}
+	.author-details{
+		padding: 25px;
+	}
+	.news-listing-tags a {
+	    padding-left: 10px;
+	    padding-right: 10px;
+	}
+
+	p.notes{
+		font-size: 16px;
+		margin-top: 20px;
+	}
+	ul.points li {
+    	font-size: 16px;
+    	font-weight: 400;
+	}
+	.teamimg img {
+    	width: 100%;
+	}
+	.tour-service {
+    	height: 374px;
+	}
+	.error-page-title h2 {
+    	font-size: 218px;
+	}
+	.error-page-title p {
+    	font-size: 98px;
+    	bottom: 2px;
+	}
+	#advertisement-btn{
+		bottom: 20px;
+	}
+}
+
+
+@media (max-width: 991px){
+	.tourpackageinfo{
+		padding-left: 25px;
+	    padding-right: 25px;
+	    padding-top: 30px;
+	}
+
+	.md-none{
+		display: none;
+	}
+
+	#home-05 h3{
+		font-size: 44px;
+    	line-height: 1.3;
+	}
+
+	#home-02 {
+    	padding-bottom: 120px;
+	}
+
+	#home-06 .padding-top{
+		padding-top: 60px;
+	}
+
+	.md-margin{
+		margin-top: 30px;
+	}
+
+	#home-10 {
+    	padding: 60px 0px;
+	}
+
+	.section-padding{
+		padding: 60px 0px;
+	}
+
+	.section-heading h2{
+		font-size: 44px;
+		line-height: 1.3;
+	}
+
+	.section-heading h3{
+		font-size: 44px;
+		line-height: 1.3;
+	}
+
+	.destinationimg img {
+    	height: 210px;
+   	} 
+
+	.destinationtitle {
+    	font-size: 28px;
+	}
+
+	.order-section{
+		order: 2;
+	}
+	a.page-link{
+		font-size: 12px;
+		width: 40px;
+    	height: 40px
+	}
+	.section-pagination{
+		margin-top: 25px;
+	}
+	#tourpackage-01 .pagination{
+		justify-content: center;
+	}
+	.review-form{
+		padding: 30px;
+	}
+	.faq-tab{
+		padding: 20px;
+	}
+	.blogsdetails{
+		padding: 25px 20px;
+	}
+	#news-listing-01 .blogsimg img {
+	    height: 309px !important;
+	}
+	ul.service-icons {
+	    display: flex;
+	    justify-content: space-between;
+	}
+	h3.news-listing-subtitle{
+		margin-bottom: 15px;
+	}
+	.news-listing-posts  .sociallinks{
+		justify-content: start !important; 
+	}
+	.news-post-listing li+li{
+		margin-top: 20px;
+	}
+	#aboutus-01 img{
+		height: 300px;
+		width: 100%;
+		object-fit: cover;
+	}
+	.teamimg img {
+    	width: 100%;
+    	height: 270px;
+    	object-fit: cover;
+	}
+	#header .navbar-collapse{
+	    background: white;
+	    width: 100%;
+	    right: 0px;
+	    padding: 16px;
+	    border: 1px solid rgb(236, 238, 239);
+    	box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.05);
+	}
+	#header li.nav-item{
+		margin: 0px;
+	}
+	#header .navbar-nav .nav-link {
+		padding-top: 3px !important;
+    	padding-bottom: 6px !important;
+	    border-bottom: 1px dashed #00000024;
+	}
+	#searchbtn-open{
+		border-bottom: 0px !important;
+		padding-top: 10px;
+	}
+	#tourpackage-01 .tourpackageimg img {
+    	height: 339px !important;
+	}
+	.tour-service {
+		height: auto !important;
+	}
+	.error-page-info {
+		display: flex;
+    	flex-direction: column;
+    	justify-content: center;
+	}	
+	a.backtohome-btn {
+    	padding: 8px 20px;
+    	font-size: 14px;
+    	width: fit-content;
+    	margin-right: auto;
+    	margin-left: auto;
+	}
+}
+
+@media (max-width: 767px){
+	.sm-margin{
+		margin-top: 30px;
+	}
+	.moreabout {
+	    margin-bottom: 30px;
+	}
+	.p-0{
+		padding: 0px 15px !important;
+	}
+	.left-padding{
+		padding-left: 15px !important;
+	}
+	.right-padding{
+		padding-right: 15px;
+	}
+	.reviewscore{
+		display: block;
+	}
+	.reviewscore-01{
+		flex: 100%;
+    	max-width: 100%;
+    	padding: 20px;
+    	border-top: 1px solid #f5f5f5;
+	}
+	.reviewscore-title{
+		padding: 10px;
+	}
+	#tourpackage-01 .tourpackageimg img{
+		height: 300px !important;
+	}
+	.tour-details-title .d-flex{
+		display: block !important;
+	}
+
+	.tour-details-title .tour-price{
+		margin-top: 15px;
+	}
+
+	.tour-details-title {
+	    padding: 0px 10px;
+	}
+
+	.tour-details-title h2 a{
+		font-size: 32px;
+	}
+	.tour-details-info .tour-price span{
+		font-size: 24px;
+	}
+	h3.tourpackage-title{
+		font-size: 32px;
+	}
+	#faq-answers span.questions{
+		font-size: 16px;
+	}
+	#faq-answers p{
+		font-size: 16px;
+	}
+	
+	.clientreview-details h4{
+		font-size: 20px;
+		margin-bottom: 15px;
+	}
+	.client-rating{
+		display: flex;
+		justify-content: space-between;
+	}
+	.clientreview-details .client-rating p{
+		font-size: 18px;
+	}
+	.review-form {
+    	padding: 20px;	
+	}
+	.contactform .form-control{
+	    height: 54px;
+	    font-weight: 400;
+	    padding: 10px 14px;
+	}
+	.contactform button{
+		padding: 8px 20px;
+	}
+	.submitbtn button{
+		padding: 6px 26px;
+	}
+	.tourpackage-plans-txt h3 {
+    	font-size: 20px;
+	}
+	.tourpackage-plans-txt p{
+		font-size: 16px;
+		margin-top: 10px !important;
+		margin-bottom: 20px !important;
+	}
+	.tourpackage-plans-count span {
+	    width: 70px;
+	    height: 70px;
+	    left: -35px;
+	}
+	.tourpackage-plans {
+    	padding-left: 50px;
+	}
+	.tour-details-info{
+		overflow: hidden;
+	}
+	.tour-details-info li{
+	    margin-left: 6px!important;
+    	margin-right: 15px;
+	}
+	.blogsdetails h3 a{
+		font-size: 28px;
+	}
+
+	#news-listing-01 .blogsimg img{
+		height: 300px !important;
+	}
+
+	.blogsdetails p{
+		margin-top: 15px !important;
+	}
+
+	ul.service-icons{
+		display: block;
+	}
+
+	.blogsimg>a{
+		right: 15px;
+	}
+
+	.news-listing-posts  .sociallinks{
+		justify-content: space-between !important; 
+	}
+
+	.news-listing-posts .sociallinks a{
+		margin: 0px !important;
+	}
+
+	.news-listing-tags a {
+	    padding-left: 16px;
+	    padding-right: 16px;
+	    margin-top: 10px;
+	    margin-right: 10px;
+	    margin-left: 0px !important;
+	}
+
+	.more-info{
+		display: block !important;
+	}
+	.news-listing-blogs .sociallinks a{
+		margin: 0px;
+		margin-right: 15px;
+	}
+
+	.more-info .sociallinks{
+		margin-top: 30px;
+		justify-content: flex-start !important;
+	}
+	.author-details .d-flex{
+		display: block !important;
+	}
+	.author-info{
+		margin-top: 20px;
+		margin-left: 0px;
+	}
+	a.replybtn{
+		position: inherit;
+    	margin-top: 15px;
+	}
+	.blogs-review-img img {
+    	width: 166px;
+	}
+	.blogs-review-info{
+		display: block;
+	}
+	.blogs-review-content{
+		margin-top: 20px;
+		margin-left: 0px;
+	}
+	.searchbtn-open{
+		display: none;
+	}
+	.tour-range .collapsebtn{
+		font-size: 16px;
+	}
+	#advertisement-btn{
+		display: none;
+	}
+}
+
+@media (max-width: 575px){
+	/*home page*/
+	.destinationimg img {
+	    height: 358px;
+	}
+	.xs-margin{
+		margin-top: 30px;
+	}
+	
+	.footerleftpadding{
+		padding: 0px;
+	}
+	.footerdetails h3{
+		margin-bottom: 15px;
+	}
+	#home-05 h3 {
+    	font-size: 32px;
+    	line-height: 1.44;
+	}
+	.section-heading {
+	    margin-bottom: 30px;
+	}
+	.section-heading h2 {
+	    font-size: 32px;
+	    line-height: 1.3;
+	}
+	.section-heading h3 {
+	    font-size: 32px;
+	    line-height: 1.3;
+	}
+	.slider-content{
+		width: auto;
+	}
+	p.sub-sliderheaing {
+    	font-size: 32px;
+	}
+	.slider-info h1{
+		font-size: 32px;
+	}
+	.slider-content span a {
+	    font-size: 13px;
+	    margin-right: 15px;
+	}
+	.moreabout h3{
+		font-size: 54px;
+	}
+	.moreabout p {
+	    font-size: 18px;
+	    margin-top: 3px;
+	}
+	#footer-menu .section-padding{
+		padding-bottom: 0px;
+	}
+	.footerdetails p{
+		margin-bottom: 10px;
+	}
+	.footerdetails a{
+		font-size: 16px;
+	}
+	.footercredit .sociallinks{
+		justify-content: center !important;
+	}
+	.footercredit{
+		padding: 20px 0px;
+	}
+	.footercreditdetails p {
+    	width: 100%;
+    	text-align: center;
+    	display: block;
+    	margin-bottom: 14px;
+	}
+	.footercreditdetails{
+		width: 100%;
+	}
+	.sociallinks a{
+		width: 44px;
+		height: 44px;
+		font-size: 16px;
+	}
+	ul.tourpackagesummary{
+		margin-bottom: 0px;
+	}
+	#home-05{
+		padding: 60px 0px;
+	}
+	#home-06 .margin-bottom {
+    	margin-bottom: 20px;
+	}
+	.userquotes {
+	    width: auto;
+	    background-color: #ff0143;
+	    padding-right: 9px;
+	    bottom: 0;
+	    line-height: 22px;
+	    font-size: 16px;
+	    padding-top: 14px;
+	    padding-bottom: 14px;
+	    padding-left: 20px;
+	}
+	#home-06 img.clientinfoimg{
+		width: 100%;
+	}
+	.pageheader h1{
+		font-size: 44px;
+	}
+	.pageheader ul.breadcrumb li{
+		font-size: 18px;
+	}
+	.footerpowered p{
+		font-size: 16px;
+	}
+	.footerpowered{
+		padding: 4px 0px;
+	}
+	
+	.tour-sorting-package{
+		padding: 25px 20px;
+	}
+	.tour-range .tour-listing{
+		margin-bottom: 20px;
+	}
+
+	/*tour packages*/
+	.tour-service{
+		padding: 20px;
+	}
+	
+	.toursorting h3{
+		font-size: 18px;
+	    width: 116px;
+	    margin: 0px;
+	}
+
+	.tour-service .d-flex{
+		display: block !important;
+	}
+	
+	.tour-price p{
+		margin-bottom: 10px;
+	}
+
+	/*tour details*/
+	
+
+	/*news listing*/
+	
+	/*about us*/
+	#aboutus-01 .section-btn{
+		margin-top: 10px !important;
+	}
+
+	#aboutus-01 .section-btn a{
+	    padding: 6px 26px;
+    	font-size: 14px;
+    }
+    p.notes {
+    	font-size: 18px;
+	}
+	ul.points li{
+		padding-left: 0px;
+		font-size: 15px;
+	}
+	.error-page-title h2 {
+    	font-size: 160px;
+	}
+	.error-page-title p {
+	    font-size: 82px;
+	    bottom: 0px;
+	}
+	.error-page-title h2::before {
+    	width: 103px;
+    	height: 80px;
+    	top: 16px;
+	}
+	a.backtohome-btn {
+		padding: 8px 20px;
+    	font-size: 14px;
+	}
+	.error-page-txt p {
+    	font-size: 20px;
+    	margin: 0px 30px;
+	}
+}
+
+@media (max-width: 375px){
+	.destinationimg img {
+    	height: 316px;
+	}
+	.section-heading h2{
+		font-size: 28px;
+	}
+	.section-heading h3{
+		font-size: 28px;
+	}
+	.tourpackageinfo a{
+		font-size: 20px;
+	}
+	.tourpackageinfo{
+		padding: 20px;
+	}
+	#home-05 h3{
+		font-size: 28px;
+	}
+	h3.tourpackage-title{
+		font-size: 28px;
+	}
+	.tour-details-title{
+		padding: 0px;
+	}
+	.blogsdetails h3 a{
+		font-size: 26px;
+	}
+
+	.error-page-title h2 {
+    	font-size: 120px;
+	}
+	.error-page-title p {
+	    font-size: 70px;
+	    bottom: 0px;
+	}
+	a.backtohome-btn {
+		padding: 8px 20px;
+    	font-size: 14px;
+	}
+	.error-page-txt p {
+    	font-size: 18px;
+	}
+}
+
+@media (max-width: 320px){
+	.destinationimg img {
+    	height: 274px;
+	}
+}
